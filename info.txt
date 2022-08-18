@@ -1,0 +1,8 @@
+cmd to create virtual env = virtualenv name
+cmd Activate env = .\env\Scripts\activate.ps1 
+pip freeze > requirements.txt
+
+
+run python file = python filename.py
+python -m spacy download en_core_web_sm 
+
